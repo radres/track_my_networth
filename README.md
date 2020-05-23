@@ -57,5 +57,3 @@ now networth.txt should be recorded in the current directory
 ### To be added:
 Different stocks and currencies
 
-
-{<img src="http://67.207.90.226/test.png" />}[http://67.207.90.226/test.png]
