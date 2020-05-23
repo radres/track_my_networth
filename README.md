@@ -58,6 +58,4 @@ now networth.txt should be recorded in the current directory
 Different stocks and currencies
 
 
-<img src="http://67.207.90.226/test.png?"
-     alt="Test"
-     style="float: left; margin-right: 10px;" />
+[![Analytics](http://67.207.90.226/test.png)](https://github.com/igrigorik/ga-beacon)
